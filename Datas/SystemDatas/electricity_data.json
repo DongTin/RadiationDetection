@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "红沿河核电厂",
+        "electricityID": 1,
+        "urlID": "2410283902",
+        "Detail": "复州城"
+    },
+    {
+        "Name": "田湾核电站",
+        "electricityID": 2,
+        "urlID": "3",
+        "Detail": "连云港镇"
+    },
+    {
+        "Name": "秦山核电基地",
+        "electricityID": 3,
+        "urlID": "1",
+        "Detail": "秦山镇"
+    },
+    {
+        "Name": "三门核电基地",
+        "electricityID": 4,
+        "urlID": "2414637803",
+        "Detail": "中街村"
+    },
+    {
+        "Name": "宁德核电厂",
+        "electricityID": 5,
+        "urlID": "2410283903",
+        "Detail": "福鼎站"
+    },
+    {
+        "Name": "福清核电厂",
+        "electricityID": 6,
+        "urlID": "2410283904",
+        "Detail": "黄岐"
+    },
+    {
+        "Name": "海阳核电基地",
+        "electricityID": 7,
+        "urlID": "2414637804",
+        "Detail": "烟台市邵家庄"
+    },
+    {
+        "Name": "大亚湾-岭澳核电厂",
+        "electricityID": 8,
+        "urlID": "2",
+        "Detail": "东山"
+    },
+    {
+        "Name": "阳江核电厂",
+        "electricityID": 9,
+        "urlID": "2410283901",
+        "Detail": "粤西分部"
+    },
+    {
+        "Name": "台山核电基地",
+        "electricityID": 10,
+        "urlID": "2414637805",
+        "Detail": "老镇"
+    },
+    {
+        "Name": "防城港核电厂",
+        "electricityID": 11,
+        "urlID": "2414637802",
+        "Detail": "前沿站"
+    },
+    {
+        "Name": "昌江核电厂",
+        "electricityID": 12,
+        "urlID": "2414637801",
+        "Detail": "石碌镇"
+    }
+]

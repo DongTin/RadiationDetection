@@ -1,0 +1,188 @@
+[
+    {
+        "Name": "北京",
+        "cityID": 1,
+        "urlID": "86",
+        "Detail": "北京万柳中路站"
+    },
+    {
+        "Name": "天津",
+        "cityID": 2,
+        "urlID": "87",
+        "Detail": "南开复康路站"
+    },
+    {
+        "Name": "河北",
+        "cityID": 3,
+        "urlID": "88",
+        "Detail": "石家庄槐岭路站"
+    },
+    {
+        "Name": "山西",
+        "cityID": 4,
+        "urlID": "89",
+        "Detail": "太原长治路站"
+    },
+    {
+        "Name": "内蒙",
+        "cityID": 5,
+        "urlID": "85",
+        "Detail": "内蒙古环境监测中心站"
+    },
+    {
+        "Name": "辽宁",
+        "cityID": 6,
+        "urlID": "84",
+        "Detail": "沈阳市东陵站"
+    },
+    {
+        "Name": "吉林",
+        "cityID": 7,
+        "urlID": "83",
+        "Detail": "长春青年路站"
+    },
+    {
+        "Name": "黑龙江",
+        "cityID": 8,
+        "urlID": "62",
+        "Detail": "哈尔滨南直路站"
+    },
+    {
+        "Name": "上海",
+        "cityID": 9,
+        "urlID": "94",
+        "Detail": "普陀沪太路站"
+    },
+    {
+        "Name": "江苏",
+        "cityID": 10,
+        "urlID": "92",
+        "Detail": "南京新城科技园站"
+    },
+    {
+        "Name": "浙江",
+        "cityID": 11,
+        "urlID": "93",
+        "Detail": "杭州三义村站"
+    },
+    {
+        "Name": "安徽",
+        "cityID": 12,
+        "urlID": "95",
+        "Detail": "合肥怀宁路站"
+    },
+    {
+        "Name": "福建",
+        "cityID": 13,
+        "urlID": "97",
+        "Detail": "福州市福飞北路站"
+    },
+    {
+        "Name": "江西",
+        "cityID": 14,
+        "urlID": "96",
+        "Detail": "南昌洪都北大道站"
+    },
+    {
+        "Name": "山东",
+        "cityID": 15,
+        "urlID": "91",
+        "Detail": "济南经十路站"
+    },
+    {
+        "Name": "河南",
+        "cityID": 16,
+        "urlID": "90",
+        "Detail": "郑州大王庄站"
+    },
+    {
+        "Name": "湖北",
+        "cityID": 17,
+        "urlID": "99",
+        "Detail": "武汉市公正路站"
+    },
+    {
+        "Name": "湖南",
+        "cityID": 18,
+        "urlID": "98",
+        "Detail": "长沙万家丽中路站"
+    },
+    {
+        "Name": "广东",
+        "cityID": 19,
+        "urlID": "100",
+        "Detail": "广州大道站"
+    },
+    {
+        "Name": "广西",
+        "cityID": 20,
+        "urlID": "101",
+        "Detail": "广西辐射站"
+    },
+    {
+        "Name": "海南",
+        "cityID": 21,
+        "urlID": "102",
+        "Detail": "海口红旗镇站"
+    },
+    {
+        "Name": "重庆",
+        "cityID": 22,
+        "urlID": "104",
+        "Detail": "大礼堂站"
+    },
+    {
+        "Name": "四川",
+        "cityID": 23,
+        "urlID": "103",
+        "Detail": "成都熊猫基地站"
+    },
+    {
+        "Name": "贵州",
+        "cityID": 24,
+        "urlID": "105",
+        "Detail": "贵阳青云路站"
+    },
+    {
+        "Name": "云南",
+        "cityID": 25,
+        "urlID": "106",
+        "Detail": "昆明环城西路站"
+    },
+    {
+        "Name": "西藏",
+        "cityID": 26,
+        "urlID": "107",
+        "Detail": "拉萨东嘎镇站"
+    },
+    {
+        "Name": "陕西",
+        "cityID": 27,
+        "urlID": "108",
+        "Detail": "西安北郊污水处理厂站"
+    },
+    {
+        "Name": "甘肃",
+        "cityID": 28,
+        "urlID": "109",
+        "Detail": "兰州市东岗站"
+    },
+    {
+        "Name": "青海",
+        "cityID": 29,
+        "urlID": "110",
+        "Detail": "西宁纳家山站"
+    },
+    {
+        "Name": "宁夏",
+        "cityID": 30,
+        "urlID": "112",
+        "Detail": "银川市环保局西夏分局站"
+    },
+    {
+        "Name": "新疆",
+        "cityID": 31,
+        "urlID": "111",
+        "Detail": "乌鲁木齐北京中路站"
+    }
+]
